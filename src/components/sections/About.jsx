@@ -9,7 +9,7 @@ function About() {
             <Title>About me ｡ꪆৎ˚⋅</Title>
             <Card
                 className="bg-blush max-w-lg md:max-w-xl"
-                imgSrc="/profile.png"
+                imgSrc="/default-profile.png"
                 alt="Profile picture"
             />
             <Card className="bg-sky items-center max-w-lg md:max-w-xl">
