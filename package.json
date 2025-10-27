@@ -37,5 +37,5 @@
   "overrides": {
     "vite": "npm:rolldown-vite@7.1.14"
   },
-  "homepage": "https://USERNAME.github.io/REPO"
+  "homepage": "https://<4lissa>.github.io/<Portfolio>"
 }
